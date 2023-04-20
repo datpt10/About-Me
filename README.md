@@ -1,7 +1,11 @@
-<!-- ddev -->
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/androi-datdev-green" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="Android" height="25" /></span>
+/*add and display colors to readme.md files:*/
+/* Squar Colors: */
+- ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
+- ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `#1589F0`
+/* Rounded(Circel) Colors: */
+- ![#f03c15](https://www.iconsdb.com/icons/download/color/f03c15/circle-16.png) `#f03c15`
+- ![#c5f015](https://www.iconsdb.com/icons/download/color/c5f015/circle-16.png) `#c5f015`
+- ![#1589F0](https://www.iconsdb.com/icons/download/color/1589F0/circle-16.png) `#1589F0`
+/* in the last one you can go to the website and change the shape to what ever you want 
+and copie the link the the img and add it to your README.md*/
