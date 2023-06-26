@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Đạt</h1>
-<h3 align="center">A Android Developer from VN</h3>
+<h1 align="center">Hi 👋, I'm Dat</h1>
+<h3 align="center">Android Developer from VN</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
