@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DatPham (DazDev)</h1>
+<h1 align="center">Hi 👋, I'm DazDev (DZ)</h1>
 <h3 align="center">Android Developer from VN</h3>
 
 <h3 align="left">Connect with me:</h3>
