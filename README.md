@@ -7,7 +7,7 @@
 
 <h3>🔗 Connect with me:</h3>
 <p>
-    <a href="https://dev.to/datpt" target="_blank" rel="noopener noreferrer">
+    <a href="https://dev.to/dazion" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/datpt14/" target="_blank" rel="noopener noreferrer">
