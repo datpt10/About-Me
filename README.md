@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi 👋, I'm <span style="color: #0078D4;">Dazion (Daz.)</span></h1>
+    <h1>Hi 👋, I'm <span style="color: #0078D4;">(Daz.)</span></h1>
     <h3>Android Dev from VietNam</h3>
 </div>
 
