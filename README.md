@@ -14,21 +14,6 @@
             font-family: Arial, sans-serif;
         }
 
-        /* Đảm bảo nội dung được đọc dễ dàng */
-        div {
-            color: white;
-        }
-
-        hr {
-            border: 1px solid #fff;
-        }
-
-        h1, h3 {
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); /* Tạo hiệu ứng bóng cho văn bản */
-        }
-    </style>
-    <title>Profile</title>
-</head>
 <body>
     <div align="center">
         <h1>Hi 👋, I'm <span style="color: #0078D4;">Daz.</span></h1>
@@ -95,4 +80,5 @@
         </a>
     </p>
 </body>
+</head>
 </html>
