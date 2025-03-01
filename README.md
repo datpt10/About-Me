@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <h1>Hi 👋, I'm <span style="color: #0078D4;">Dat Pham (Daz.)</span></h1>
+    <h1>Hi 👋, I'm <span style="color: #0078D4;">Dat Pham (Davix)</span></h1>
     <h4>Android Developer</h4>
 </div>
 
